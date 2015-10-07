@@ -7,7 +7,15 @@ Ten en cuenta que tiene que ser una charla específica de Angular o de tooling r
 
 Y sobretodo muchas gracias por dar el paso, si no fuera por personas como tú no podríamos hacer esto.
 
-# Histórico de charlas
+## Formato para proponer una charla
+Por favor utiliza un formato similar al siguiente cuando crees la issue con el tema de tu charla.
+
+- Tipo (charla o workshop)
+- Título
+- Breve descripción de la charla
+- Mini bio del autor
+
+## Histórico de charlas
 
 
 01 Oct 2015 | [Ricardo Mallols](https://twitter.com/RicardoMallols) | Sign Up journey at Sky TV: Building advanced forms for millions of users.
