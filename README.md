@@ -18,4 +18,4 @@ Por favor utiliza un formato similar al siguiente cuando crees la issue con el t
 ## Histórico de charlas
 
 
-01 Oct 2015 | [Ricardo Mallols](https://twitter.com/RicardoMallols) | Sign Up journey at Sky TV: Building advanced forms for millions of users.
+01 Oct 2015 | [Ricardo Mallols](https://twitter.com/RicardoMallols) | [Sign Up journey at Sky TV: Building advanced forms for millions of users.](https://www.youtube.com/watch?v=TPNOrSAb8Wk)
