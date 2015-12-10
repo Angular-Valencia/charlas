@@ -19,3 +19,8 @@ Por favor utiliza un formato similar al siguiente cuando crees la issue con el t
 
 
 01 Oct 2015 | [Ricardo Mallols](https://twitter.com/RicardoMallols) | [Sign Up journey at Sky TV: Building advanced forms for millions of users.](https://www.youtube.com/watch?v=TPNOrSAb8Wk)
+
+03 Dic 2015 | [Lorenzo González](https://twitter.com/logongas) | [Controladores y Componentes en
+Angular 1.4, 1.5 y 2.0](http://slides.com/logongas/angularvalencia-controladores#/)
+
+03 Dic 2015 | [Sergio Rael](https://twitter.com/sergiorael) y [Jose Manuel Orts](https://twitter.com/jortsc) | [Cuando el grid es el corazón de tu aplicación](https://github.com/Angular-Valencia/charlas/blob/master/upload/SmartIE%20El%20Grid.pptx)
